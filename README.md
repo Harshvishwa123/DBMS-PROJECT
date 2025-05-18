@@ -52,8 +52,8 @@ This system allows customers to browse, order, and pay for grocery items while e
 
 ## 📁 File Structure
 📦RetailStoreDB
-┣ 📄 finalfinaldbms.sql ← Complete schema and sample data
-┣ 📄 Project Overview.pdf ← Functional & technical overview
-┣ 📄 Relational diagram and ER diagram.pdf
-┣ 📄 Conflicting and Non-Conflicting Database Transactions.pdf
-┣ 📄 README.md ← You're reading it!
+- 📄 finalfinaldbms.sql ← Complete schema and sample data
+- 📄 Project Overview.pdf ← Functional & technical overview
+- 📄 Relational diagram and ER diagram.pdf
+- 📄 Conflicting and Non-Conflicting Database Transactions.pdf
+- 📄 README.md ← You're reading it!
