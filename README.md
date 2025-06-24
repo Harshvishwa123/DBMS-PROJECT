@@ -1,4 +1,4 @@
-# 🛒 Retail Store Management System (DBMS Project)
+# Retail Store Management System (DBMS Project)
 
 A fully functional **command-line based online grocery store** built as part of the CSE202: Fundamentals of Database Management Systems course at IIIT-Delhi.
 
@@ -6,7 +6,7 @@ This system allows customers to browse, order, and pay for grocery items while e
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language**: Java (CLI)
 - **Database**: MySQL (with complex schema and relationships)
 - **Tools**: IntelliJ / VS Code, MySQL Workbench
@@ -14,9 +14,9 @@ This system allows customers to browse, order, and pay for grocery items while e
 
 ---
 
-## 🔧 Functional Modules
+## Functional Modules
 
-### 👤 Customer
+### Customer
 - Register/login with secure password and input validation
 - View available items and current deals
 - Add/remove items from cart
@@ -24,13 +24,13 @@ This system allows customers to browse, order, and pay for grocery items while e
 - Track delivery status
 - Provide feedback after order
 
-### 👨‍💼 Admin
+### Admin
 - View all customers and order stats
 - Analyze top customers (by spend, quantity, average order)
 - Manage inventory (add/update/remove items)
 - View product-deal and product-supplier mappings
 
-### 🛍 Inventory & Orders
+### Inventory & Orders
 - Real-time quantity update on order placement
 - Apply discounts from deals table
 - Assign delivery partners to orders
@@ -38,20 +38,20 @@ This system allows customers to browse, order, and pay for grocery items while e
 
 ---
 
-## 🔐 Database Features
+## Database Features
 
-- ✅ **15+ Tables** with foreign key relationships
-- ✅ **Normalization & Indexing**
-- ✅ **Triggers**:
+- **15+ Tables** with foreign key relationships
+- **Normalization & Indexing**
+- **Triggers**:
   - Automatically update item stock post order
   - Block account after 3 failed login attempts
-- ✅ **Transactions**: Demonstrated both conflict-serializable and non-conflicting transactions
-- ✅ **ER Diagram & Relational Schema** included
+- **Transactions**: Demonstrated both conflict-serializable and non-conflicting transactions
+- **ER Diagram & Relational Schema** included
 
 ---
 
-## 📁 File Structure
-📦RetailStoreDB
+## File Structure
+RetailStoreDB
 - 📄 finalfinaldbms.sql ← Complete schema and sample data
 - 📄 Project Overview.pdf ← The overview of the Functional & technical section
 - 📄 Relational diagram and ER diagram.pdf
