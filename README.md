@@ -5,7 +5,7 @@ A fully functional **command-line based online grocery store** built as part of 
 This system allows customers to browse, order, and pay for grocery items while enabling admins to manage inventory, track customer activity, and oversee delivery logistics using an SQL-backed relational database.
 
 🔗 [Project Motivation](https://docs.google.com/presentation/d/1703LuXUJ3Hc4cLSZ0xvnJ_McD7BVaa4g/edit?usp=sharing&ouid=108049351732374820521&rtpof=true&sd=true)
-🔗 [More infor about Project](https://drive.google.com/file/d/1azQZSekmHlj3ydol4UMGgbQ21XVo2M_L/view?usp=sharing)
+🔗 [More info about Project](https://drive.google.com/file/d/1azQZSekmHlj3ydol4UMGgbQ21XVo2M_L/view?usp=sharing)
 
 
 ---
