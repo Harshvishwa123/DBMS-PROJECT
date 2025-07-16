@@ -9,7 +9,7 @@ This system allows customers to browse, order, and pay for grocery items while e
 ---
 🔗 [Project Overview](https://claude.ai/public/artifacts/7ad7b270-1d23-4e1c-a320-aaa2f1e07cfe)
 
-
+---
 ---
 
 ## Tech Stack
