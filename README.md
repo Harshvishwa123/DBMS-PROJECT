@@ -6,6 +6,8 @@ This system allows customers to browse, order, and pay for grocery items while e
 
 🔗 [Project Motivation](https://docs.google.com/presentation/d/1703LuXUJ3Hc4cLSZ0xvnJ_McD7BVaa4g/edit?usp=sharing&ouid=108049351732374820521&rtpof=true&sd=true)
 🔗 [More info about Project](https://drive.google.com/file/d/1azQZSekmHlj3ydol4UMGgbQ21XVo2M_L/view?usp=sharing)
+---
+🔗 [Project Overview](https://claude.ai/public/artifacts/7ad7b270-1d23-4e1c-a320-aaa2f1e07cfe)
 
 
 ---
